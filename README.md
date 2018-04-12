@@ -1,6 +1,7 @@
 # AlessaD3D
 Added some features from  DrNseven Source :
 https://github.com/DrNseven/Ros-D3D
+All credit from www.unknowncheats.me
 
 ## Features
 #### - *Visual* -
