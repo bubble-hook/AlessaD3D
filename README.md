@@ -27,12 +27,13 @@ https://github.com/DrNseven/Ros-D3D
 * - ProneHack
 
 ## Getting Started
-You will need directx sdk & minhook or any other detour
+You will need directx sdk & Detour
 And know the basic about using Visual Studio.
 
 
 ### Prerequisites
 * Visual Studio
+* Directx sdk & Detour
 * Brain
 
 ![alt tag](https://github.com/alessa0008/AlessaD3D/blob/master/menu.png)
