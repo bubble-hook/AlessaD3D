@@ -26,5 +26,12 @@ https://github.com/DrNseven/Ros-D3D
 * - WTWater
 * - ProneHack
 
+## Getting Started
+You will need know the basic about using Visual Studio.
+
+### Prerequisites
+* Visual Studio
+* C++ Tool Set (Include in VS)
+* Brain
 
 ![alt tag](https://github.com/alessa0008/AlessaD3D/blob/master/menu.png)
