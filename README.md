@@ -27,7 +27,9 @@ https://github.com/DrNseven/Ros-D3D
 * - ProneHack
 
 ## Getting Started
-You will need know the basic about using Visual Studio.
+You will need directx sdk & minhook or any other detour
+And know the basic about using Visual Studio.
+
 
 ### Prerequisites
 * Visual Studio
